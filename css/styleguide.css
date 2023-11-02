@@ -56,21 +56,21 @@
 
 :root {
 
-    --color-dark: #1C1D20;
-    --color-dark-dark: #141517;
+    --color-dark: #3a3a3a;
+    --color-dark-dark: #ffffff;
     --color-light: #FFFFFF;
-    --color-blue: #455CE9;
-    --color-blue-dark: #334BD3;
-    --color-gray: #999D9E;
+    --color-blue: #3a3a3a;
+    --color-blue-dark: #3a3a3a;
+    --color-gray: #ffffff;
     --color-lightgray: #E9EAEB;
-    --color-white: #FFFFFF;
+    --color-white: #000000;
     
-    --color-border: rgba(28, 29, 32, 0.175);
+    --color-border: rgba(63, 63, 63, 0.175);
     --color-border-solid: #D2D2D2;
     --color-border-light: rgba(255, 255, 255, 0.2);
     --color-border-solid-light: #545557;
 
-    --color-text: #1C1D20;
+    --color-text: #b8b8b8;
     --color-text-light: #FFF;
 
     --alert-error: #ff4444;
